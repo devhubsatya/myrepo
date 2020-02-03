@@ -4,8 +4,9 @@
 Welcome to Satya's GitHub
 
 
-do some new DevOps Work
+Learn some new DevOps tools
 
 LAMP
 Chef
 Kubernetes
+Ansible
